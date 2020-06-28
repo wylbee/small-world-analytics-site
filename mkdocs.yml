@@ -17,3 +17,7 @@ theme:
     scheme: slate
     primary: light blue
     accent: deep orange
+
+nav:
+  - Home: index.md
+  - Personal Tracker: personal-tracker.smallworldanalytics.com
