@@ -10,10 +10,3 @@ theme:
     scheme: slate
     primary: deep orange
     accent: light blue
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/brown5628
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/brown5628
