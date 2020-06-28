@@ -15,5 +15,5 @@ theme:
   logo: images/logo.svg
   palette:
     scheme: slate
-    primary: deep orange
-    accent: light blue
+    primary: light blue
+    accent: deep orange
