@@ -18,3 +18,4 @@ jobs:
             ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
             dokku-host: '167.172.144.191'
             app-name: 'small-world-site'
+            git-push-flags: '--force'
