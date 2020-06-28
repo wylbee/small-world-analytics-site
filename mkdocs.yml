@@ -2,6 +2,7 @@ site_name: Small World Analytics
 
 theme:
   name: material
+  logo: images/logo.svg
   palette:
     scheme: slate
     primary: deep orange
