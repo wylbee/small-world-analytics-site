@@ -1,3 +1,7 @@
 site_name: Small World Analytics
+
 theme:
   name: material
+  palette:
+    primary: deep orange
+    accent: light blue
