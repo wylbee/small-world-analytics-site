@@ -1,4 +1,4 @@
 <!-- index.md -->
 # Index Page
 
-Hello world!
+Hello world! This is a page.
