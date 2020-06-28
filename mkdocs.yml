@@ -1,1 +1,3 @@
 site_name: Small World Analytics
+theme:
+  name: material
