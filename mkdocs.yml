@@ -1,5 +1,8 @@
 site_name: Small World Analytics
 
+repo_name: brown5628/small-world-analytics-site
+repo_url: https://github.com/brown5628/small-world-analytics-site
+
 theme:
   name: material
   logo: images/logo.svg
