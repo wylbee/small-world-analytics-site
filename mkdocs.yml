@@ -3,5 +3,6 @@ site_name: Small World Analytics
 theme:
   name: material
   palette:
+    scheme: slate
     primary: deep orange
     accent: light blue
