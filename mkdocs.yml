@@ -21,3 +21,4 @@ theme:
 nav:
   - Home: index.md
   - Personal Tracker: http://personal-tracker.smallworldanalytics.com
+  - Personal Kanban Metrics: http://agile-metrics.smallworldanalytics.com
