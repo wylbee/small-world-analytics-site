@@ -15,7 +15,7 @@ theme:
   logo: images/planet-sharp.svg
   palette:
     scheme: default
-    primary: black
+    primary: white
     accent: blue
 
 nav:
