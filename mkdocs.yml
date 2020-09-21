@@ -14,9 +14,9 @@ theme:
   name: material
   logo: images/logo.svg
   palette:
-    scheme: slate
-    primary: light blue
-    accent: deep orange
+    scheme: default
+    primary: white
+    accent: blue
 
 nav:
   - Home: index.md
