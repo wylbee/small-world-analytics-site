@@ -9,7 +9,7 @@ extra:
       link: https://github.com/brown5628
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/brown5628
-
+      
 theme:
   name: material
   logo: images/planet-sharp.svg
@@ -17,8 +17,22 @@ theme:
     scheme: default
     primary: white
     accent: blue
+  features:
+    - tabs
 
 nav:
   - Home: index.md
-  - Personal Tracker: http://personal-tracker.smallworldanalytics.com
-  - Personal Kanban Metrics: http://agile-metrics.smallworldanalytics.com
+
+  - Forecasting:
+    - Introduction: forecasting-notebooks/forecasting.md
+    - Notebooks:
+      - Forecasting + Notebook 2: forecasting-notebooks/test.ipynb
+  - Quantified Self:
+    - Introduction: quantified-self/quantified-self.md
+    - Personal Tracker: http://personal-tracker.smallworldanalytics.com
+    - Personal Kanban Metrics: http://agile-metrics.smallworldanalytics.com
+
+
+
+plugins:
+  - mknotebooks
