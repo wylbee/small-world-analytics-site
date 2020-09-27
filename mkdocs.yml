@@ -26,7 +26,7 @@ nav:
   - Forecasting:
     - Introduction: forecasting-notebooks/forecasting.md
     - Notebooks:
-      - ACB confirmed before election: forecasting-notebooks/acb_confirmation.ipynb
+      - Will Amy Coney Barrett be confirmed before Election Day?: forecasting-notebooks/acb_confirmation.ipynb
   - Quantified Self:
     - Introduction: quantified-self/quantified-self.md
     - Personal Tracker: http://personal-tracker.smallworldanalytics.com
