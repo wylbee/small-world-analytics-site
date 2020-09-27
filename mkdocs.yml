@@ -26,7 +26,7 @@ nav:
   - Forecasting:
     - Introduction: forecasting-notebooks/forecasting.md
     - Notebooks:
-      - Forecasting + Notebook 2: forecasting-notebooks/test.ipynb
+      - ACB confirmed before election: forecasting-notebooks/acb_confirmation.ipynb
   - Quantified Self:
     - Introduction: quantified-self/quantified-self.md
     - Personal Tracker: http://personal-tracker.smallworldanalytics.com
